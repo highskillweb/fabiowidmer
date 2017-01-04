@@ -74,7 +74,7 @@
 					<!-- /Slider -->
 
 					<div class="resume_btn goto_resume_btn"><i class="fa fa-list"></i>Check out my Resume</div>
-					<a href="#" class="cv_download_btn"><i class="fa fa-download"></i>Download my CV</a>
+					<a href="fabio.pdf" target="_blank" class="cv_download_btn"><i class="fa fa-download"></i>Download my CV</a>
 				</div>
 				<!-- /Home Page -->
 
@@ -455,7 +455,7 @@
 								<div class="text">RESUME</div>
 								<div class="clear"></div>
 							</div>
-							<a href="#" class="btn"><i class="fa fa-download"></i><span>Download my Resume</span><div class="clear"></div></a>
+							<a href="fabio.pdf" target="_blank" class="btn"><i class="fa fa-download"></i><span>Download my Resume</span><div class="clear"></div></a>
 						</div>
 						<!-- /Download CV -->
 
