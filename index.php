@@ -634,7 +634,7 @@
 					    	</a>
 				    		<div class="popup_information">
                                 <div class="top">
-                                    <img src="img/portfolio/8-3.png" alt="img" width="220" height="170" />
+                                    <img src="img/portfolio/wp5_cont.png" alt="img" width="220" height="170" />
                                 </div>
                                 <div class="bottom">
                                     <h3 class="title">Hotel Booking Website</h3>
