@@ -534,7 +534,7 @@
 										I have built this shopping site with Shopify and React.js.
                                     </p>
                                     <div class="line">
-	                                    <a href="https://www.cokerexpo.co.uk">Go to project</a>
+	                                    <a href="http://shopdressup.com">Go to project</a>
 		                            </div>
                                 </div>
                                 <div class="clear"></div>
