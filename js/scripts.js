@@ -506,6 +506,7 @@ $(document).ready(function(){
 		if (curr_page_loaded == false && next_page_loaded == false)
 			return false;
 
+
 		var curr_page = $(".main_menu ul li a.active").attr("href");
 		curr_page = curr_page.split("#");
 		curr_page = curr_page[1];
@@ -664,4 +665,6 @@ $(document).ready(function(){
 		$("#wrapper .main_content").css("height", pageHeight+"px");
 	});
 	
+	$(".portfolio").click();
+
 });
